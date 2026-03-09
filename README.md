@@ -1,0 +1,2 @@
+# Portf-lio-MarkStar
+Um site pra fazer meu portfólio, será atualizado ao longo do tempo com meus cursos em andamento, cursos completos, minhas linguágens dominadas e etc.
